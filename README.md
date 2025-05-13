@@ -1,0 +1,2 @@
+# Project Background
+Gujarat-based FMCG company AtliQ Mart lost key customers due to delivery problems and now needs to track three critical metrics daily: On-Time Delivery (OT%) measuring orders delivered on the promised date, In-Full Delivery (IF%) measuring orders with complete quantities, and On-Time In-Full (OTIF%) measuring orders that meet both criteria, all compared against customer-specific targets before expanding to new cities.
