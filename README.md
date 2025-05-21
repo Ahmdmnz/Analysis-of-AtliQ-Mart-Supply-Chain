@@ -22,4 +22,10 @@ Spaero Technology's database structure as seen in the image consists of five mai
 
 # Excutive Summary
 ## Overview of Findings
-AtliQ Mart's delivery performance metrics show significant challenges across all service levels, with OTIF at only 29% against a 65% target. On-Time delivery (59%) and In-Full delivery (53%) are both substantially below their respective goals of 85% and 76%. While Volume Fill Rate remains strong at 97%, indicating product availability, the Line Fill Rate of 66% reveals critical issues in order fulfillment. These service gaps are consistent across all three operational cities and most pronounced with key customers like Acclaimed Stores and Coolblue, explaining the recent contract losses. Addressing these service level failures is essential before proceeding with planned expansion to additional metro markets.RetryClaude can make mistakes. Please double-check responses.
+AtliQ Mart's delivery performance metrics show significant challenges across all service levels, with OTIF at only 29% against a 65% target. On-Time delivery (59%) and In-Full delivery (53%) are both substantially below their respective goals of 85% and 76%. While Volume Fill Rate remains strong at 97%, indicating product availability, the Line Fill Rate of 66% reveals critical issues in order fulfillment. These service gaps are consistent across all three operational cities and most pronounced with key customers like Acclaimed Stores and Coolblue, explaining the recent contract losses. Addressing these service level failures is essential before proceeding with planned expansion to additional metro markets.
+
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report.
+
+![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/Screenshot%202025-04-19%20191732.png)
+
+
