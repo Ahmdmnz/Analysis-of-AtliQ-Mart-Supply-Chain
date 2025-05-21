@@ -39,3 +39,28 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
   fulfillment challenges.
 
   ![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/%E2%80%8F%E2%80%8F%D9%84%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9%20(1517).png?raw=true)
+
+## City Analysis:
+
+- Surat leads with 30% OTIF (vs 66% target) and best OT rate (61%)
+- All cities severely underperforming OTIF targets by ~36% gap
+- Vadodara shows weakest performance at 28% OTIF (vs 64% target)
+- OnTime metrics (58-61%) consistently outperform InFull metrics (52-54%)
+
+## Customer Analysis:
+
+- Top performers: Propel Mart/Viveks Stores (39% OTIF) vs worst: Acclaimed Stores (13%)
+- 5 customers in green zone (37-39% OTIF), 7 in red zone (12-26% OTIF)
+- OnTime execution varies dramatically (26-86%) while InFull more consistent (40-50%)
+- Elite Mart shows unusual pattern: strong OnTime (85%) but poor InFull (29%)
+- Atlas/Chiptec Stores lead OnTime (84%) while maintaining average InFull (~49%)
+
+## Product Analysis:
+
+- All products: high VFR (95-98%) vs modest LFR (64-68%)
+- Best performers: AM Biscuits 750/AM Milk 500 (68% LFR)
+- Weakest performers: AM Butter 250/500 (64-65% LFR)
+- Minimal variation across product categories indicates systemic issues
+- Consistent VFR excellence suggests volume prioritized over order completeness
+
+  ![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/%E2%80%8F%E2%80%8F%D9%84%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9%20(1517).png?raw=true)
