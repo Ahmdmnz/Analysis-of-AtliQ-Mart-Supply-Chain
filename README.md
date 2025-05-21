@@ -28,4 +28,14 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ![image](https://github.com/Ahmdmnz/Analysis-of-AtliQ-Mart-Supply-Chain/blob/main/Screenshot%202025-05-21%20160557.png)
 
+## Delivery Trends:
+- OnTime performance at 59% is significantly below the target of 85%, with a critical -30.59% gap that indicates severe delivery timing challenges.
+- InFull metrics at 53% versus a 76% goal show substantial product availability issues, with a -30.26% shortfall affecting customer order completion.
+- The combined OnTime InFull (OTIF) rate of 29% is alarmingly low against the 65% target, with a -55.38% gap representing a major risk to customer satisfaction and 
+  retention.
+- Line Fill Rate at 66% suggests order lines are frequently incomplete, though Volume Fill Rate at 97% indicates that while order completeness is problematic, the  
+  volume of products delivered is generally meeting expectations.
+- This disconnect between Volume Fill Rate and other KPIs suggests the company is prioritizing high-volume items while smaller orders or specialty products face 
+  fulfillment challenges.
 
+  ![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/%E2%80%8F%E2%80%8F%D9%84%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9%20(1517).png?raw=true)
