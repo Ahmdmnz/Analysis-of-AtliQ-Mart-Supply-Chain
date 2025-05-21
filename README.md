@@ -64,3 +64,35 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 - Consistent VFR excellence suggests volume prioritized over order completeness
 
   ![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/%E2%80%8F%E2%80%8F%D9%84%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9%20(1517).png?raw=true)
+
+
+## Recommendations:
+## Supply Chain Optimization
+
+- Address Critical OTIF Gap: Implement urgent action plan to close the 36% gap between current (29%) and target (65%) OTIF rates
+- Improve Delivery Timing: Focus on logistics improvements to raise the OnTime performance from 59% toward 85% target
+- Enhance Inventory Management: Align inventory with demand to elevate InFull rates from current 53% to target 76%
+
+## Customer-Specific Strategies
+
+- Implement Recovery Plans: Create dedicated improvement plans for lowest performers (Acclaimed Stores, Coolblue, Lotus Mart) with OTIF below 15%
+- Leverage Success Models: Study best performers (Propel Mart, Viveks Stores) to identify replicable practices for 39% OTIF achievement
+- Resolve Elite Mart Disconnect: Address root causes behind strong OnTime (85%) but poor InFull (29%) performance
+
+## Geographic Performance
+
+- Develop Surat Blueprint: Analyze and replicate factors behind Surat's marginally better OTIF performance (30%)
+- Create City-Specific Interventions: Target unique challenges in Vadodara where OTIF performance is weakest (28%)
+- Standardize Cross-City Operations: Implement best practices to reduce performance variance between cities
+
+## Product Portfolio Management
+
+- Strengthen Butter Category: Address specific challenges causing lowest LFR performance (64-65%) in AM Butter 250/500
+- Replicate Success Drivers: Identify and scale factors behind stronger performance in AM Biscuits 750 and AM Milk 500 (68% LFR)
+- Balance Volume vs. Completeness: Maintain strong VFR (97%) while improving LFR (currently 66%)
+
+## Measurement & Analytics
+
+- Implement Root Cause Analysis: Determine specific drivers behind the 55.38% OTIF gap to target
+- Develop Leading Indicators: Create early warning metrics that predict delivery performance issues
+- Establish Recovery Trajectory: Set milestone targets with clear timelines to achieve OTIF goals
