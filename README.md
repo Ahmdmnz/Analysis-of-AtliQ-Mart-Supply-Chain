@@ -38,7 +38,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 - This disconnect between Volume Fill Rate and other KPIs suggests the company is prioritizing high-volume items while smaller orders or specialty products face 
   fulfillment challenges.
 
-  ![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/%E2%80%8F%E2%80%8F%D9%84%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9%20(1517).png?raw=true)
+  ![image](https://github.com/Ahmdmnz/Analysis-of-AtliQ-Mart-Supply-Chain/blob/main/Screenshot%202025-05-21%20161324.png)
 
 ## City Analysis:
 
@@ -63,7 +63,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 - Minimal variation across product categories indicates systemic issues
 - Consistent VFR excellence suggests volume prioritized over order completeness
 
-  ![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/%E2%80%8F%E2%80%8F%D9%84%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9%20(1517).png?raw=true)
+  ![image](https://github.com/Ahmdmnz/Analysis-of-AtliQ-Mart-Supply-Chain/blob/main/Screenshot%202025-05-21%20161708.png)
 
 
 ## Recommendations:
