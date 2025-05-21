@@ -26,6 +26,6 @@ AtliQ Mart's delivery performance metrics show significant challenges across all
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report.
 
-![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/Screenshot%202025-04-19%20191732.png)
+![image](https://github.com/Ahmdmnz/Analysis-of-AtliQ-Mart-Supply-Chain/blob/main/Screenshot%202025-05-21%20160557.png)
 
 
