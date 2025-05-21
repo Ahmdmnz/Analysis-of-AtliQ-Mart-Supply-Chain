@@ -15,7 +15,7 @@ Insights & Recommendations
 - **Product Performance Patterns**
   Tracking Line Fill Rate and Volume Fill Rate across product categories identifies specific inventory management challenges, informs procurement strategies, and ensures focus on high-impact product lines.
 
-The power BI file [here](https://github.com/Ahmdmnz/analysis-of-Spaero-Technology-s-performance/blob/26410cb11eafb18b252982afdf9cb6a53c23f4e6/Financial%20Project.pbix)
+The power BI file [here](https://github.com/Ahmdmnz/Analysis-of-AtliQ-Mart-Supply-Chain/blob/main/SupplyChain.pbix)
 # Data Structure & Initial Chcks
 Spaero Technology's database structure as seen in the image consists of five main tables: Customers, Sales, Cash Flow, Target, and Dates, with a measurements table.
 ![image](https://github.com/Ahmdmnz/Analysis-of-AtliQ-Mart-Supply-Chain/blob/main/Screenshot%202025-05-21%20154532.png)
